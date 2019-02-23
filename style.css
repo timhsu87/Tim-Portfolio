@@ -250,6 +250,27 @@ a{
     color: #4a69bd;
 }
 
+.button{
+    text-align: center;
+   
+}
+
+
+.live-button{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: #4a69bd;
+    color: white;
+    font-size: 12px;
+    border: none;
+}
+
+.button :hover{
+    cursor: pointer;
+    color: #16a085;
+}
+
 .project{
     display: grid;
     grid-template-columns: 1fr 1fr;
