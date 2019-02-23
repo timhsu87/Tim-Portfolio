@@ -677,14 +677,6 @@ a{
 
 @media only screen and (max-width: 450px) {
 
-    .panel-h{
-        width: 450px;
-    }
-
-    .about{
-        width: 450px;
-    }
-
     .project-title{
         font-size: 30px;
         border-left: 100px solid #16a085;
