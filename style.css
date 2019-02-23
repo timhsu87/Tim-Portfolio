@@ -123,7 +123,7 @@ a{
 }
 
 .panel-h{
-    background-image: url("./images/b4.jpg");
+    background-image: url("./images/b4new.jpg");
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -738,6 +738,10 @@ a{
         width: 90%;
         padding: 20px 30px;
         font-size: 15px;
+    }
+
+    .project{
+        padding-top: 25px;
     }
 
  
