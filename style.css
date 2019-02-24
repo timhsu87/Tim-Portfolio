@@ -573,6 +573,9 @@ a{
 
 @media only screen and (max-width: 600px) {
 
+    .project{
+        grid-row-gap: 60px;
+    }
     
     .about-white{
         height: 600px;
